@@ -28,7 +28,7 @@
 
 ### 🚀 Experiência Profissional
 
-**Desenvolvedor Júnior (Estagiário)**  
+**Desenvolvedor Júnior**  
 **Eurekia Soluções**
 
 Atuação no desenvolvimento e manutenção de sistemas web utilizando Laravel e Next.js, trabalhando com APIs REST, modelagem de banco de dados e integração entre frontend e backend.
