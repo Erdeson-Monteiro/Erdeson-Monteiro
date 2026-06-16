@@ -97,5 +97,4 @@ Atualmente aprofundando conhecimentos em:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Português-Nativo-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Inglês-Intermediário_em_evolução-blue?style=flat-square" />
 </div>
