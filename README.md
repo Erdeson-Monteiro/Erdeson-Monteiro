@@ -98,6 +98,3 @@ Atualmente aprofundando conhecimentos em:
 <div align="center">
   <img src="https://img.shields.io/badge/Português-Nativo-green?style=flat-square" />
 </div>
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erdeson-Monteiro&show_icons=true&theme=tokyonight)
