@@ -98,13 +98,3 @@ Atualmente aprofundando conhecimentos em:
 <div align="center">
   <img src="https://img.shields.io/badge/Português-Nativo-green?style=flat-square" />
 </div>
-
-### 📊 Atividade no GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erdeson-Monteiro&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erdeson-Monteiro&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erdeson-Monteiro&theme=radical&hide_border=true" />
-</div>
