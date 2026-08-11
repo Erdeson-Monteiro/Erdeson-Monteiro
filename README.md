@@ -24,8 +24,6 @@
     </a>
   </p>
 </div>
----
-
  
 ### 🚀 Experiência Profissional
  
