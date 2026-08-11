@@ -33,7 +33,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erdeson-Monteiro&layout=compact&theme=radical&hide_border=true" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erdeson-Monteiro&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Erdeson-Monteiro&theme=radical&hide_border=true" />
 </div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Erdeson-Monteiro&theme=radical&no-frame=true&row=1&column=6" />
@@ -119,3 +119,4 @@ Atualmente aprofundando conhecimentos em:
 <div align="center">
   <img src="https://img.shields.io/badge/Português-Nativo-green?style=flat-square" />
 </div>
+ 
