@@ -25,23 +25,7 @@
   </p>
 </div>
 ---
- 
-### 📊 GitHub Stats
- 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Erdeson-Monteiro&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erdeson-Monteiro&layout=compact&theme=radical&hide_border=true" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Erdeson-Monteiro&theme=radical&hide_border=true" />
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Erdeson-Monteiro&theme=radical&no-frame=true&row=1&column=6" />
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Erdeson-Monteiro&color=blueviolet&style=flat-square&label=Visualiza%C3%A7%C3%B5es+no+perfil" />
-</div>
----
+
  
 ### 🚀 Experiência Profissional
  
