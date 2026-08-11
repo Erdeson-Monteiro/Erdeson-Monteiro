@@ -27,7 +27,7 @@
  
 ### 🚀 Experiência Profissional
  
-**Desenvolvedor Júnior Full Stack**
+**Desenvolvedor Full Stack**
 **Eurekia Soluções Tecnológicas** — Balsas, MA
  
 Atuação no desenvolvimento e manutenção de sistemas web utilizando **Laravel** e **Next.js**, trabalhando com APIs REST, modelagem de banco de dados e integração entre frontend e backend em ambiente multi-tenant.
