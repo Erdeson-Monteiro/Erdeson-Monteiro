@@ -58,14 +58,11 @@ Atuação no desenvolvimento e manutenção de sistemas web utilizando **Laravel
 - Versionamento e colaboração via Git
 ---
  
-### 💡 Projetos em Destaque
+### 💡 Projeto em Destaque
  
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **Fortix** | SaaS PWA para preparação de TAF (Teste de Aptidão Física) voltado a candidatos de concursos de segurança pública, com plano de treino gerado por IA | Next.js, Supabase, Prisma, Anthropic API, Asaas |
-| **Luft** | SaaS de coaching de xadrez com pagamentos integrados e sincronização com a Lichess API | Laravel, Next.js, Asaas |
-| **GameShow** | Plataforma de gamificação educacional com modo offline via rede local (PIN) e modo online com questões geradas por IA | Node.js, Socket.io, AWS |
-| **Sistema de Rastreabilidade Bovina** | Projeto de pesquisa institucional (FAPEMA) para rastreamento de gado com IoT/RFID | ESP32, Full Stack |
+| **Sistema de Rastreabilidade Bovina** | Projeto de pesquisa institucional (FAPEMA) para rastreamento de gado com IoT/RFID, desenvolvido de forma solo (full stack) | ESP32, RFID, Full Stack |
  
 ---
  
@@ -122,3 +119,4 @@ Atualmente aprofundando conhecimentos em:
 <div align="center">
   <img src="https://img.shields.io/badge/Português-Nativo-green?style=flat-square" />
 </div>
+ 
