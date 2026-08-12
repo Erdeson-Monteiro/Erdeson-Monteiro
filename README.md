@@ -1,41 +1,22 @@
-<div align="right">
+# Olá, eu sou Erdeson Monteiro 👋
 
-  <a href="./README.en.md">
-    <img src="https://img.shields.io/badge/Read_in_English-Blue?style=for-the-badge&logo=google-translate&logoColor=white" alt="Read in English">
+### Desenvolvedor Full Stack | Laravel & PHP no Backend, Next.js & TypeScript no Frontend
+
+Desenvolvedor focado na construção de aplicações web modernas, APIs bem estruturadas e sistemas escaláveis.
+
+Estudante de Análise e Desenvolvimento de Sistemas com experiência prática em ambiente profissional e em produtos próprios.
+
+<p>
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
-</div>
+  &nbsp;
 
-<div align="center">
-
-  <h1>Olá, eu sou Erdeson Monteiro 👋</h1>
-
-  <h3>Desenvolvedor Full Stack | Laravel & PHP no Backend, Next.js & TypeScript no Frontend</h3>
-
-  <p>
-    Desenvolvedor focado na construção de aplicações web modernas, APIs bem estruturadas e sistemas escaláveis.<br>
-    Estudante de Análise e Desenvolvimento de Sistemas com experiência prática em ambiente profissional e em produtos próprios.
-  </p>
-
-  <p>
-    <a href="https://www.linkedin.com/">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-
-    &nbsp;
-
-    <a href="mailto:seuemail@email.com">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-
-    &nbsp;
-
-    <a href="https://github.com/Erdeson-Monteiro">
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-  </p>
-
-</div>
+  <a href="https://github.com/Erdeson-Monteiro">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 ---
 
