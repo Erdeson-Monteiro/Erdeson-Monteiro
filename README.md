@@ -117,14 +117,6 @@ Atualmente aprofundando conhecimentos em:
 - Programação competitiva (Python) — atualmente competindo na **Maratona de Programação SBC 2026**
 
 ---
-## 📊 GitHub Contributions
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erdeson-Monteiro&show_icons=true&include_all_commits=true&count_private=true&hide_title=true" />
-
-</div>
----
 
 <div align="center">
 
